@@ -1,1 +1,13 @@
-
+name: grovenv
+channels:
+  - defaults
+dependencies:
+  - python=3.12.2
+  - pip
+  - pip:
+    - matplotlib==3.9.0
+    - notebook==7.2.0
+    - pylatexenc==2.10
+    - qiskit==1.1.0
+    - qiskit-aer==0.14.1
+    - seaborn==0.13.2

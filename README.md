@@ -84,7 +84,7 @@
        ```
 4. Clone the repository ([`Quantum Key Distribution for Nano Networks --grovers-algorithm`](https://github.com/ALAKSHENDRASINGH/Quantum-Key-Distribution-for-Nano-Networks---Grovers-Algorithm#))), then enter (i.e. `cd` command) `Quantum-Key-Distribution-for-Nano-Networks--Grovers-Algorithm` directory
    ```sh
-   git clone [https://github.com/lynkos/grovers-algorithm](https://github.com/ALAKSHENDRASINGH/Quantum-Key-Distribution-for-Nano-Networks---Grovers-Algorithm#).git && cd Quantum-Key-Distribution-for-Nano-Networks--Grovers-Algorithm
+   git clone https://github.com/ALAKSHENDRASINGH/Quantum-Key-Distribution-for-Nano-Networks---Grovers-Algorithm#.git && cd Quantum-Key-Distribution-for-Nano-Networks--Grovers-Algorithm
    ```
 5. Create a conda virtual environment from [`environment.yml`](environment.yml)
    ```

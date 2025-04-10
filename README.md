@@ -73,7 +73,7 @@
    ```
    conda update conda
    ```
-3. Enter the directory where you want the repository ([`grovers-algorithm`](https://github.com/ALAKSHENDRASINGH/Quantum-Key-Distribution-for-Nano-Networks---Grovers-Algorithm)) to be cloned
+3. Enter the directory where you want the repository ([`Quantum Key Distribution for Nano Networks--grovers-algorithm`](https://github.com/ALAKSHENDRASINGH/Quantum-Key-Distribution-for-Nano-Networks---Grovers-Algorithm.git)) to be cloned
      * POSIX
        ```sh
        cd ~/path/to/directory
@@ -82,7 +82,7 @@
        ```sh
        cd C:\Users\user\path\to\directory
        ```
-4. Clone the repository ([`Quantum Key Distribution for Nano Networks --grovers-algorithm`](https://github.com/ALAKSHENDRASINGH/Quantum-Key-Distribution-for-Nano-Networks---Grovers-Algorithm)), then enter (i.e. `cd` command) `grovers-algorithm` directory
+4. Clone the repository ([`Quantum Key Distribution for Nano Networks --grovers-algorithm`]([https://github.com/ALAKSHENDRASINGH/Quantum-Key-Distribution-for-Nano-Networks---Grovers-Algorithm](https://github.com/ALAKSHENDRASINGH/Quantum-Key-Distribution-for-Nano-Networks---Grovers-Algorithm.git))), then enter (i.e. `cd` command) `grovers-algorithm` directory
    ```sh
    git clone https://github.com/lynkos/grovers-algorithm.git && cd grovers-algorithm
    ```
